@@ -53,7 +53,7 @@
     <div class="container">
         <h1>Hello</h1>
         <p>This is Nagesh Devsecops course in Dubai. </p>
-        <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
+        <p><a class="btn btn-primary btn-lg" role="button">Click for info &raquo;</a></p>
     </div>
 </div>
 
