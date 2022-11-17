@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Nagesh Devops course in Dubai</title>
+    <title>Devops course in Dubai</title>
 
 
     <!-- Custom styles for this template -->
@@ -52,7 +52,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Hello</h1>
-        <p>This is from dev branch. </p>
+        <p>This is Nagesh Devsecops course in Dubai. </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
